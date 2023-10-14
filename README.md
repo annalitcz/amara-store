@@ -1,8 +1,10 @@
-<div style="text-align:center;">
-  <h1>Amara Store</h1>
+<div style="display:flex;justify-content:center;align-items:center;">
+  <img src="https://i.pinimg.com/474x/17/d1/55/17d155f50f2970ecdd01d8125bc57d73.jpg" alt="intro kobo" style="border-radius:100%;" width="200"/>
 </div>
 
-![Ayang](https://i.pinimg.com/564x/25/80/00/2580000a1f02af5a2abe509e69b50d0a.jpg)
+<div>
+  <h1 style="text-align:center;">Amara Store</h1>
+</div>
 
 Free template website penjualan undangan digital yang menggunakan framework [React JS](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) dan [FontAwesome](https://fontawesome.com/), untuk saat ini masih fokus dalam bidang styling di mobile view.
 
@@ -56,3 +58,4 @@ npm start
     "web-vitals": "^2.1.4"
   }
 ```
+<img src="" alt="see u">
