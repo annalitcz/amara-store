@@ -3,13 +3,14 @@
   <h2 style="text-align:center;">Amara Store</h2>
 </p>
 
+Free template website penjualan undangan digital yang menggunakan framework [React JS](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) dan [FontAwesome](https://fontawesome.com/), untuk saat ini masih fokus dalam bidang styling di mobile view.
+
 <h1> Table of Contents </h1>
 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Dependency](#dependency)
   
-Free template website penjualan undangan digital yang menggunakan framework [React JS](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) dan [FontAwesome](https://fontawesome.com/), untuk saat ini masih fokus dalam bidang styling di mobile view.
 
 ## Requirements
 
@@ -61,4 +62,6 @@ npm start
     "web-vitals": "^2.1.4"
   }
 ```
-<img src="" alt="see u">
+<div style="display:flex;justify-content:center;align-items:center;padding:2rem;">
+  <img src="https://i.pinimg.com/564x/8d/25/2b/8d252bb404ba018c1f45ffee7641eb23.jpg" alt="see u">
+</div>
