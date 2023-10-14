@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/474x/17/d1/55/17d155f50f2970ecdd01d8125bc57d73.jpg" alt="intro kobo" style="border-radius: 50%;" width="200"/>
+  <img src="https://web-store-cloud.vercel.app/src/kobo-rounded.png" alt="intro kobo" style="border-radius: 50%;" width="200"/>
   <h2>Amara Store</h2>
 </div>
 
