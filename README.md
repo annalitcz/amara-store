@@ -1,10 +1,8 @@
-<div style="display:flex;justify-content:center;align-items:center;">
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
   <img src="https://i.pinimg.com/474x/17/d1/55/17d155f50f2970ecdd01d8125bc57d73.jpg" alt="intro kobo" style="border-radius:100%;" width="200"/>
-</div>
-
-<div>
   <h1 style="text-align:center;">Amara Store</h1>
 </div>
+
 
 Free template website penjualan undangan digital yang menggunakan framework [React JS](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) dan [FontAwesome](https://fontawesome.com/), untuk saat ini masih fokus dalam bidang styling di mobile view.
 
