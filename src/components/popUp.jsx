@@ -6,10 +6,10 @@ import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 const PopUp = () => {
   return (
     <>
-      <div className="fixed bottom-40 pl-6 hover:animate-bounce">
+      <div className="fixed bottom-40 mt-10 pl-6 hover:text-white">
         <Link
           to={"https://wa.me/081915515080"}
-          className="border border-green-500 hover:bg-green-700 hover:text-white rounded-lg p-3 relative flex items-center"
+          className="border border-green-500 hover:bg-green-600 rounded-lg p-3 relative flex items-center"
         >
           <FontAwesomeIcon className="text-green-400 mr-2" icon={faWhatsapp} />{" "}
           <p className="text-white text-lg">Chat</p>

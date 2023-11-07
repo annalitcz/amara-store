@@ -1,5 +1,6 @@
 import React from "react";
 import Card from "./card";
+import Footer from "./footer";
 
 const ProdukContainer = () => {
   const dataCard = [
@@ -26,6 +27,22 @@ const ProdukContainer = () => {
         Price: "120.000",
         Tag: "Luxury",
         Links: "https://our-wedding.link/preset&design?preset_id=631be52580ef7a0a25250312"
+    },
+    {
+        Title: "Traditional Minang",
+        imgUrl:"https://cdn-uploads.our-wedding.link/f3aeaff0-44e7-11ee-afff-fbb406ac45aa.jpg",
+        Alt: "preview4",
+        Price: "145.000",
+        Tag: "Eksklusif",
+        Links: "https://our-wedding.link/preset&design?preset_id=64dcd9476113675a81feaefd"
+    },
+    {
+      Title: "Black & Gold",
+      imgUrl: "https://cdn-uploads.our-wedding.link/6a693180-f39c-11ed-9bca-81274156d864.jpeg",
+      Alt: "preview5",
+      Price: "160.000",
+      Tag: "Premium",
+      Links: "https://our-wedding.link/preset&design?preset_id=5ff8031150ce4331aec06a9a"
     }
   ];
 
@@ -44,6 +61,7 @@ const ProdukContainer = () => {
             />
         ))}
       </div>
+      <Footer/>
     </>
   );
 };

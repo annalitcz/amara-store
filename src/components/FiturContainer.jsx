@@ -1,6 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faClockFour, faMap, faComment, faMusic, faPhotoFilm, faMobileAndroid } from "@fortawesome/free-solid-svg-icons";
+import Footer from "./footer";
 
 const FiturContainer = () => {
   return (
@@ -37,6 +38,7 @@ const FiturContainer = () => {
           <p className="text-center">Say good bye untuk design jadul. biar undanganmu makin wow.</p>
         </div>
       </div>
+      <Footer/>
     </>
   );
 };
