@@ -10,7 +10,7 @@ const Fitur = () => {
         <div>
             <Navbar />
             <div style={{ paddingTop:"64px"}}></div>
-            <h3 className='text-center text-red-500 text-4xl font-bold dancing'>Daftar Fitur</h3>
+            <h3 className='text-center text-red-500 text-4xl font-bold mt-5 mb-3'>Daftar Fitur</h3>
             <FiturContainer/>
         </div>
     );
