@@ -13,6 +13,14 @@ const ProdukContainer = () => {
       Links: "https://our-wedding.link/preset&design?preset_id=641d0c1205ce1ec450dc4780"
     },
     {
+      Title: "Classic Models",
+      imgUrl:"https://web-store-cloud.vercel.app/src/img1.png",
+      Alt: "preview2",
+      Price: "150.000",
+      Tag: "Premium",
+      Links: "https://undanganlevi.vercel.app/"
+    },
+    {
       Title: "Dark Boho",
       imgUrl:"https://cdn-uploads.our-wedding.link/77404ca0-59c7-11ed-9176-870ab3898177.jpg",
       Alt: "preview2",
