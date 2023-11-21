@@ -8,7 +8,7 @@ const PopUp = () => {
     <>
       <div className="fixed bottom-40 mt-10 pl-6 hover:text-white">
         <Link
-          to={"https://wa.me/081915515080"}
+          to={"https://wa.me/6281915515080"}
           className="border border-green-500 hover:bg-green-600 rounded-lg p-3 relative flex items-center"
         >
           <FontAwesomeIcon className="text-green-400 mr-2" icon={faWhatsapp} />{" "}
